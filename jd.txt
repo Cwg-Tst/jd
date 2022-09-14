@@ -1,3 +1,4 @@
 <goods>
 	<1>
+	<2 by manager>
 </goods>
