@@ -1,4 +1,5 @@
 <goods>
 	<1>
 	<2 by manager>
+	<3 by emp>
 </goods>
